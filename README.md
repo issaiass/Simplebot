@@ -27,7 +27,7 @@ Below and examples of the outcome
 </details>
 
 <details open>
-<summary> <b>Using The fusion2urdfroPackage<b></summary>
+<summary> <b>Using The fusion2urdf package<b></summary>
 
 - Follow the next steps to replicate the outcome on windows with Windows PowerShell
 ~~~
